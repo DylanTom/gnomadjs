@@ -1,0 +1,30 @@
+{
+  "toc": {
+    "sections": [
+      {
+        "id": "concepts",
+        "title": "Concepts",
+        "children": [
+          "variant-qc",
+          "ancestry",
+          "relatedness-filtering",
+          "vep",
+          "gene-constraint",
+          "pext",
+          "regional-constraint",
+          "faf",
+          "SV_docs/sv-overview"
+        ]
+      },
+      {
+        "id": "ui",
+        "title": "gnomAD browser",
+        "children": [
+          "dataset-selection",
+          "include-filtered-variants",
+          "gtex"
+        ]
+      }
+    ]
+  }
+}
